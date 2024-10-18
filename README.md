@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Tech stacks
-<img src="https://skillicons.dev/icons?i=python,django,html,css,vscode,github" />
+<img src="https://skillicons.dev/icons?i=java,python,django,html,css,vscode,github" />
